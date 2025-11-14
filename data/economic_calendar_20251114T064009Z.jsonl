@@ -1,0 +1,97 @@
+{"time": "9:30am", "currency": "CNY", "importance": "Medium Impact Expected", "event": "CH CPI y/y", "forecast": "0.0%", "previous": "-0.3%"}
+{"time": "9:30am", "currency": "CNY", "importance": "Medium Impact Expected", "event": "CH PPI y/y", "forecast": "-2.3%", "previous": "-2.3%"}
+{"time": "7:30am", "currency": "AUD", "importance": "Low Impact Expected", "event": "AU RBA Deputy Gov Hauser Speaks", "forecast": null, "previous": null}
+{"time": "7:50am", "currency": "JPY", "importance": "Low Impact Expected", "event": "JN BOJ Summary of Opinions", "forecast": null, "previous": null}
+{"time": "1:00pm", "currency": "JPY", "importance": "Low Impact Expected", "event": "JN Leading Indicators", "forecast": "107.9%", "previous": "107.4%"}
+{"time": "5:10pm", "currency": "GBP", "importance": "Low Impact Expected", "event": "UK MPC Member Lombardelli Speaks", "forecast": null, "previous": null}
+{"time": "5:30pm", "currency": "EUR", "importance": "Low Impact Expected", "event": "EZ Sentix Investor Confidence", "forecast": "-3.9", "previous": "-5.4"}
+{"time": "9:30pm", "currency": "USD", "importance": "Low Impact Expected", "event": "US FOMC Member Daly Speaks", "forecast": null, "previous": null}
+{"time": "10:45pm", "currency": "USD", "importance": "Low Impact Expected", "event": "US Cleveland Fed Inflation Expectations", "forecast": null, "previous": "3.5%"}
+{"time": "10:45pm", "currency": "USD", "importance": "Low Impact Expected", "event": "US FOMC Member Musalem Speaks", "forecast": null, "previous": null}
+{"time": "7:15am", "currency": "AUD", "importance": "Low Impact Expected", "event": "AU Westpac Consumer Sentiment", "forecast": null, "previous": "-3.5%"}
+{"time": "7:50am", "currency": "JPY", "importance": "Low Impact Expected", "event": "JN Bank Lending y/y", "forecast": "3.8%", "previous": "3.8%"}
+{"time": "7:50am", "currency": "JPY", "importance": "Low Impact Expected", "event": "JN Current Account", "forecast": "2.26T", "previous": "2.46T"}
+{"time": "8:01am", "currency": "GBP", "importance": "Low Impact Expected", "event": "UK BRC Retail Sales Monitor y/y", "forecast": "2.4%", "previous": "2.0%"}
+{"time": "8:30am", "currency": "AUD", "importance": "Low Impact Expected", "event": "AU NAB Business Confidence", "forecast": null, "previous": "7"}
+{"time": "10:00am", "currency": "NZD", "importance": "Medium Impact Expected", "event": "NZ Inflation Expectations q/q", "forecast": null, "previous": "2.28%"}
+{"time": "11:35am", "currency": "JPY", "importance": "Low Impact Expected", "event": "JN 30-y Bond Auction", "forecast": null, "previous": "3.25|3.4"}
+{"time": "1:00pm", "currency": "JPY", "importance": "Low Impact Expected", "event": "JN Economy Watchers Sentiment", "forecast": "47.5", "previous": "47.1"}
+{"time": "3:00pm", "currency": "GBP", "importance": "High Impact Expected", "event": "UK Claimant Count Change", "forecast": "17.6K", "previous": "25.8K"}
+{"time": "3:00pm", "currency": "GBP", "importance": "Medium Impact Expected", "event": "UK Average Earnings Index 3m/y", "forecast": "5.0%", "previous": "5.0%"}
+{"time": "3:00pm", "currency": "GBP", "importance": "Low Impact Expected", "event": "UK Unemployment Rate", "forecast": "4.9%", "previous": "4.8%"}
+{"time": "All Day", "currency": "EUR", "importance": "Non-Economic", "event": "FR Bank Holiday", "forecast": null, "previous": null}
+{"time": "4:30pm", "currency": "GBP", "importance": "Low Impact Expected", "event": "UK MPC Member Greene Speaks", "forecast": null, "previous": null}
+{"time": "6:00pm", "currency": "EUR", "importance": "Low Impact Expected", "event": "GE ZEW Economic Sentiment", "forecast": "41.0", "previous": "39.3"}
+{"time": "6:00pm", "currency": "EUR", "importance": "Low Impact Expected", "event": "EZ ZEW Economic Sentiment", "forecast": "23.5", "previous": "22.7"}
+{"time": "7:00pm", "currency": "USD", "importance": "Low Impact Expected", "event": "US NFIB Small Business Index", "forecast": "98.5", "previous": "98.8"}
+{"time": "All Day", "currency": "CAD", "importance": "Non-Economic", "event": "CA Bank Holiday", "forecast": null, "previous": null}
+{"time": "All Day", "currency": "USD", "importance": "Non-Economic", "event": "US Bank Holiday", "forecast": null, "previous": null}
+{"time": "10:30pm", "currency": "GBP", "importance": "Low Impact Expected", "event": "UK CB Leading Index m/m", "forecast": null, "previous": "-0.3%"}
+{"time": "6:15am", "currency": "AUD", "importance": "Low Impact Expected", "event": "AU RBA Assist Gov Jones Speaks", "forecast": null, "previous": null}
+{"time": "7:50am", "currency": "JPY", "importance": "Low Impact Expected", "event": "JN M2 Money Stock y/y", "forecast": "1.8%", "previous": "1.6%"}
+{"time": "11:25am", "currency": "USD", "importance": "Low Impact Expected", "event": "US FOMC Member Barr Speaks", "forecast": null, "previous": null}
+{"time": "1:58pm", "currency": "JPY", "importance": "Low Impact Expected", "event": "JN Prelim Machine Tool Orders y/y", "forecast": null, "previous": "9.9%"}
+{"time": "3:00pm", "currency": "EUR", "importance": "Low Impact Expected", "event": "GE Final CPI m/m", "forecast": "0.3%", "previous": "0.3%"}
+{"time": "3:00pm", "currency": "EUR", "importance": "Low Impact Expected", "event": "GE WPI m/m", "forecast": "0.1%", "previous": "0.2%"}
+{"time": "5:00pm", "currency": "EUR", "importance": "Low Impact Expected", "event": "IT Industrial Production m/m", "forecast": "1.5%", "previous": "-2.4%"}
+{"time": "All Day", "currency": "EUR", "importance": "Low Impact Expected", "event": "EZ Eurogroup Meetings", "forecast": null, "previous": null}
+{"time": "6:32pm", "currency": "EUR", "importance": "Low Impact Expected", "event": "GE 30-y Bond Auction", "forecast": null, "previous": "3.17|1.4"}
+{"time": "8:05pm", "currency": "GBP", "importance": "Low Impact Expected", "event": "UK MPC Member Pill Speaks", "forecast": null, "previous": null}
+{"time": "9:30pm", "currency": "CAD", "importance": "Low Impact Expected", "event": "CA Building Permits m/m", "forecast": "0.8%", "previous": "-1.2%"}
+{"time": "10:20pm", "currency": "USD", "importance": "Low Impact Expected", "event": "US FOMC Member Williams Speaks", "forecast": null, "previous": null}
+{"time": "11:00pm", "currency": "USD", "importance": "Low Impact Expected", "event": "US FOMC Member Paulson Speaks", "forecast": null, "previous": null}
+{"time": "11:20pm", "currency": "USD", "importance": "Low Impact Expected", "event": "US FOMC Member Waller Speaks", "forecast": null, "previous": null}
+{"time": "11:30pm", "currency": "AUD", "importance": "Low Impact Expected", "event": "AU CB Leading Index m/m", "forecast": null, "previous": "0.6%"}
+{"time": "1:15am", "currency": "USD", "importance": "Low Impact Expected", "event": "US FOMC Member Bostic Speaks", "forecast": null, "previous": null}
+{"time": "1:30am", "currency": "USD", "importance": "Low Impact Expected", "event": "US FOMC Member Miran Speaks", "forecast": null, "previous": null}
+{"time": "2:01am", "currency": "USD", "importance": "Low Impact Expected", "event": "US 10-y Bond Auction", "forecast": null, "previous": "4.12|2.5"}
+{"time": "2:30am", "currency": "CAD", "importance": "Low Impact Expected", "event": "CA BOC Summary of Deliberations", "forecast": null, "previous": null}
+{"time": "5:00am", "currency": "USD", "importance": "Low Impact Expected", "event": "US FOMC Member Collins Speaks", "forecast": null, "previous": null}
+{"time": "5:30am", "currency": "USD", "importance": "Low Impact Expected", "event": "US API Weekly Statistical Bulletin", "forecast": null, "previous": null}
+{"time": "5:45am", "currency": "NZD", "importance": "Low Impact Expected", "event": "NZ Visitor Arrivals m/m", "forecast": null, "previous": "2.2%"}
+{"time": "7:50am", "currency": "JPY", "importance": "Low Impact Expected", "event": "JN PPI y/y", "forecast": "2.5%", "previous": "2.7%"}
+{"time": "8:00am", "currency": "AUD", "importance": "Low Impact Expected", "event": "AU MI Inflation Expectations", "forecast": null, "previous": "4.8%"}
+{"time": "8:01am", "currency": "GBP", "importance": "Low Impact Expected", "event": "UK RICS House Price Balance", "forecast": "-14%", "previous": "-15%"}
+{"time": "8:30am", "currency": "AUD", "importance": "High Impact Expected", "event": "AU Employment Change", "forecast": "20.0K", "previous": "14.9K"}
+{"time": "8:30am", "currency": "AUD", "importance": "High Impact Expected", "event": "AU Unemployment Rate", "forecast": "4.4%", "previous": "4.5%"}
+{"time": "3:00pm", "currency": "GBP", "importance": "High Impact Expected", "event": "UK GDP m/m", "forecast": "0.0%", "previous": "0.1%"}
+{"time": "3:00pm", "currency": "GBP", "importance": "Medium Impact Expected", "event": "UK Prelim GDP q/q", "forecast": "0.2%", "previous": "0.3%"}
+{"time": "3:00pm", "currency": "GBP", "importance": "Low Impact Expected", "event": "UK Construction Output m/m", "forecast": "0.0%", "previous": "-0.3%"}
+{"time": "3:00pm", "currency": "GBP", "importance": "Low Impact Expected", "event": "UK Goods Trade Balance", "forecast": "-20.8B", "previous": "-21.2B"}
+{"time": "3:00pm", "currency": "GBP", "importance": "Low Impact Expected", "event": "UK Index of Services 3m/3m", "forecast": "0.3%", "previous": "0.4%"}
+{"time": "3:00pm", "currency": "GBP", "importance": "Low Impact Expected", "event": "UK Industrial Production m/m", "forecast": "-0.5%", "previous": "0.4%"}
+{"time": "3:00pm", "currency": "GBP", "importance": "Low Impact Expected", "event": "UK Manufacturing Production m/m", "forecast": "-0.7%", "previous": "0.7%"}
+{"time": "3:00pm", "currency": "GBP", "importance": "Low Impact Expected", "event": "UK Prelim Business Investment q/q", "forecast": "0.3%", "previous": "-4.0%"}
+{"time": "3:30pm", "currency": "CHF", "importance": "Low Impact Expected", "event": "SZ PPI m/m", "forecast": "-0.1%", "previous": "-0.2%"}
+{"time": "5:00pm", "currency": "EUR", "importance": "Low Impact Expected", "event": "EZ ECB Economic Bulletin", "forecast": null, "previous": null}
+{"time": "5:01pm", "currency": "CNY", "importance": "Low Impact Expected", "event": "CH New Loans", "forecast": "460B", "previous": "1290B"}
+{"time": "5:02pm", "currency": "CNY", "importance": "Low Impact Expected", "event": "CH M2 Money Supply y/y", "forecast": "8.1%", "previous": "8.4%"}
+{"time": "6:00pm", "currency": "EUR", "importance": "Low Impact Expected", "event": "EZ Industrial Production m/m", "forecast": "0.7%", "previous": "-1.2%"}
+{"time": "All Day", "currency": "EUR", "importance": "Low Impact Expected", "event": "EZ ECOFIN Meetings", "forecast": null, "previous": null}
+{"time": "8:00pm", "currency": "GBP", "importance": "Low Impact Expected", "event": "UK MPC Member Greene Speaks", "forecast": null, "previous": null}
+{"time": "9:00pm", "currency": "USD", "importance": "Low Impact Expected", "event": "US FOMC Member Daly Speaks", "forecast": null, "previous": null}
+{"time": "11:30pm", "currency": "USD", "importance": "Low Impact Expected", "event": "US FOMC Member Kashkari Speaks", "forecast": null, "previous": null}
+{"time": "1:00am", "currency": "USD", "importance": "Low Impact Expected", "event": "US Crude Oil Inventories", "forecast": "1.0M", "previous": "5.2M"}
+{"time": "1:15am", "currency": "USD", "importance": "Low Impact Expected", "event": "US FOMC Member Musalem Speaks", "forecast": null, "previous": null}
+{"time": "1:20am", "currency": "USD", "importance": "Low Impact Expected", "event": "US FOMC Member Hammack Speaks", "forecast": null, "previous": null}
+{"time": "1:30am", "currency": "CHF", "importance": "Low Impact Expected", "event": "SZ Gov Board Member Tschudin Speaks", "forecast": null, "previous": null}
+{"time": "2:01am", "currency": "USD", "importance": "Low Impact Expected", "event": "US 30-y Bond Auction", "forecast": null, "previous": "4.73|2.4"}
+{"time": "5:30am", "currency": "NZD", "importance": "Low Impact Expected", "event": "NZ BusinessNZ Manufacturing Index", "forecast": null, "previous": "49.9"}
+{"time": "9:30am", "currency": "CNY", "importance": "Low Impact Expected", "event": "CH New Home Prices m/m", "forecast": null, "previous": "-0.41%"}
+{"time": "10:00am", "currency": "CNY", "importance": "Low Impact Expected", "event": "CH Fixed Asset Investment ytd/y", "forecast": "-0.9%", "previous": "-0.5%"}
+{"time": "10:00am", "currency": "CNY", "importance": "Low Impact Expected", "event": "CH Industrial Production y/y", "forecast": "5.5%", "previous": "6.5%"}
+{"time": "10:00am", "currency": "CNY", "importance": "Low Impact Expected", "event": "CH NBS Press Conference", "forecast": null, "previous": null}
+{"time": "10:00am", "currency": "CNY", "importance": "Low Impact Expected", "event": "CH Retail Sales y/y", "forecast": "2.7%", "previous": "3.0%"}
+{"time": "10:00am", "currency": "CNY", "importance": "Low Impact Expected", "event": "CH Unemployment Rate", "forecast": "5.2%", "previous": "5.2%"}
+{"time": "12:30pm", "currency": "JPY", "importance": "Low Impact Expected", "event": "JN Tertiary Industry Activity m/m", "forecast": "0.3%", "previous": "-0.4%"}
+{"time": "3:45pm", "currency": "EUR", "importance": "Low Impact Expected", "event": "FR Final CPI m/m", "forecast": "0.1%", "previous": "0.1%"}
+{"time": "5:00pm", "currency": "EUR", "importance": "Low Impact Expected", "event": "IT Trade Balance", "forecast": "3.18B", "previous": "2.05B"}
+{"time": "6:00pm", "currency": "EUR", "importance": "Low Impact Expected", "event": "EZ Flash Employment Change q/q", "forecast": "0.1%", "previous": "0.1%"}
+{"time": "6:00pm", "currency": "EUR", "importance": "Low Impact Expected", "event": "EZ Flash GDP q/q", "forecast": "0.2%", "previous": "0.2%"}
+{"time": "6:00pm", "currency": "EUR", "importance": "Low Impact Expected", "event": "EZ Trade Balance", "forecast": "8.8B", "previous": "9.7B"}
+{"time": "9:30pm", "currency": "CAD", "importance": "Low Impact Expected", "event": "CA Manufacturing Sales m/m", "forecast": "2.8%", "previous": "-1.0%"}
+{"time": "9:30pm", "currency": "CAD", "importance": "Low Impact Expected", "event": "CA Wholesale Sales m/m", "forecast": "0.0%", "previous": "-1.2%"}
+{"time": "11:05pm", "currency": "USD", "importance": "Low Impact Expected", "event": "US FOMC Member Schmid Speaks", "forecast": null, "previous": null}
+{"time": "11:30pm", "currency": "USD", "importance": "Low Impact Expected", "event": "US Natural Gas Storage", "forecast": "34B", "previous": "33B"}
+{"time": "3:30am", "currency": "USD", "importance": "Low Impact Expected", "event": "US FOMC Member Logan Speaks", "forecast": null, "previous": null}
+{"time": "4:20am", "currency": "USD", "importance": "Low Impact Expected", "event": "US FOMC Member Bostic Speaks", "forecast": null, "previous": null}
